@@ -62,7 +62,7 @@ public class Calculator extends Frame implements ActionListener {
         });
     }
 
-    // ActionListener method for button clicks
+    // actionListener method for button clicks
     public void actionPerformed(ActionEvent e) {
         String command = e.getActionCommand();
 
